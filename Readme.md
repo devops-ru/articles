@@ -5,6 +5,12 @@
 
 * [10+ Deploys Per Day: Dev and Ops Cooperation at Flickr](http://www.slideshare.net/jallspaw/10-deploys-per-day-dev-and-ops-cooperation-at-flickr)
 
+
+## Releases
+
+* [Canary Releases](http://martinfowler.com/bliki/CanaryRelease.html)
+* [Blue Green Deployment](http://martinfowler.com/bliki/BlueGreenDeployment.html)
+
 ## Monitoring
 
 * [Measure Anything, Measure Everything](https://codeascraft.com/2011/02/15/measure-anything-measure-everything/)
